@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AdminDashBoard/static/css/main.ddcc4149.css",
+    "main.js": "/AdminDashBoard/static/js/main.3ff41e3c.js",
+    "static/media/img4.png": "/AdminDashBoard/static/media/img4.48e3f87292d439b0c2bd.png",
+    "static/media/img6.png": "/AdminDashBoard/static/media/img6.a06b7a577219b4a3ba13.png",
+    "static/media/img5.png": "/AdminDashBoard/static/media/img5.44ff8c16097051ce072d.png",
+    "index.html": "/AdminDashBoard/index.html",
+    "main.ddcc4149.css.map": "/AdminDashBoard/static/css/main.ddcc4149.css.map",
+    "main.3ff41e3c.js.map": "/AdminDashBoard/static/js/main.3ff41e3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddcc4149.css",
+    "static/js/main.3ff41e3c.js"
+  ]
+}

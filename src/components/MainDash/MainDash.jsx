@@ -1,6 +1,6 @@
 import React from 'react'
 import { Cards } from '../Cards/Cards'
-import BasicTable, { BaseTable } from '../Table/Table'
+import BasicTable from '../Table/Table'
 import './MainDash.css'
 
 

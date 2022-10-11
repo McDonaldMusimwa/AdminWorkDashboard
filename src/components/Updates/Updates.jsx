@@ -8,7 +8,7 @@ export const Updates = () => {
             {UpdatesData.map((update) => {
                 return (
                     <div className='update'>
-                        <img src={update.img} alt />
+                        <img src={update.img} alt="" />
                         <div className='noti'>
                         <div
                         style={{
